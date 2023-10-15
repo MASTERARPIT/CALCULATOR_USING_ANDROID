@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">calculator</string>
+
+    <string name="ONE">1</string>
+    <string name="TWO">2</string>
+    <string name="THREE">3</string>
+    <string name="FOUR">4</string>
+    <string name="FIVE">5</string>
+    <string name="SIX">6</string>
+    <string name="SEVEN">7</string>
+    <string name="EIGHT">8</string>
+    <string name="NINE">9</string>
+    <string name="ZERO">0</string>
+    <string name="CLEAR">C</string>
+
+    <string name="PLUS">+</string>
+    <string name="PARANTESISI">( )</string>
+    <string name="DIVIDE">/</string>
+    <string name="PERCENTAGE">%</string>
+    <string name="MULTIPLICATION">*</string>
+    <string name="substraction">-</string>
+    <string name="equal_to">=</string>
+    <string name="dot">.</string>
+    <string name="addition">+</string>
+    <string name="plus_minus">+/-</string>
+    <string name="back"> </string>
+    <string name="text">ENTER THE VALUE</string>
+    <string name="todo">todo</string>
+    <string name="display" />
+
+</resources>
